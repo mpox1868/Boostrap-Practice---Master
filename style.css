@@ -1,0 +1,5 @@
+h1{background-color: blue; text-align: center; font-family: cursive;}
+html{background-image: url("background.jpg");
+/* background-position: center; */
+background-size: 1800px;
+}
